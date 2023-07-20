@@ -1,4 +1,4 @@
-# BookHub
+# E-Book app
 •	This is a book management app. It contains features like fetching books from the internet and showing the list with the help of API which is provided by
   the Internshala trainings and showing the details of the selected book and the feature of adding and deleting the book from the 
   favorites list and the feature of sorting the book according to alphabetical order.
